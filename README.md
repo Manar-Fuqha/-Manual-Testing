@@ -7,6 +7,6 @@
 
 ---
 ## Footer Section 
-📄 [FRD](https://drive.google.com/drive/folders/1j14Ey_vMNZ-QaL6t-aXbObBEACIvSqLe)
+📄 [FRD](https://drive.google.com/file/d/1uVIL0diN_aj006ekftBurZr3mU8GSz-3/view?usp=drive_link)
 
 📄 [Test Cases](https://docs.google.com/spreadsheets/d/148AWt4YdUK6xvtKySQK3hwCdZKx1A1r9/edit?gid=789505951#gid=789505951)
